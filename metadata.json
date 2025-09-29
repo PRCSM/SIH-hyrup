@@ -1,0 +1,5 @@
+{
+  "name": "AI Internship Finder",
+  "description": "An AI-powered web app that provides personalized internship recommendations based on your skills, helping students find their perfect match from the PM Internship Portal.",
+  "requestFramePermissions": []
+}
